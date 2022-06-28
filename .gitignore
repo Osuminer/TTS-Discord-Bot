@@ -1,0 +1,4 @@
+.env
+ffmpeg.exe
+output.mp3
+env/
